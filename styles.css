@@ -48,6 +48,11 @@ header .container {
     width: 100%;
 }
 
+header img {
+    width: 150px;
+    height: 70px;
+}
+
 nav ul {
     list-style: none;
     display: flex;
